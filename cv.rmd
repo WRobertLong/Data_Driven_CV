@@ -1,6 +1,6 @@
 ---
-title: "Megan Beckett's CV"
-author: Megan Beckett
+title: "RobertLong's CV"
+author: "Robert Long"
 date: "`r Sys.Date()`"
 params:
   pdf_mode:
@@ -86,7 +86,7 @@ CV %>% print_skill_bars()
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-The source code is available at [github.com/MeganBeckett/cv](https://github.com/MeganBeckett/cv).
+The source code is available at [github.com/MeganBeckett/cv](https://github.com/WRobert Long/cv).
 
 Last updated on `r Sys.Date()`.
 
